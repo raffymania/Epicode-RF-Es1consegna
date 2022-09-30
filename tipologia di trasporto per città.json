@@ -1,4 +1,4 @@
-{"country":
+{"country":[
 	{"city":["napoli","benevento","salerno"],"car":[60,70,57],"traffic time":16.5,"bike":0.6,"bus":40},
 	{"city":["roma","latina","frosinone"],"car":[70,65,69],"traffic time":18,"bike":0.9},
 	{"city":["torino","novara","biella"],"car":[75,80,87],"traffic time":25,"bike":3.4},
@@ -9,4 +9,4 @@
 	{"city":["bari","lecce","taranto"],"car":[70,65,70],"traffic time":10.9,"bike":null},
 	{"city":["padova","treviso","venezia"],"car":[80,79,null],"traffic time":14.1,"bike":4.6},
 	{"city":["rimini","bolognao","modena"],"car":[77,70,75],"traffic time":10.4,"bike":3.6}
-}
+]}
