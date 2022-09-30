@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<country>
+ <area>
+  <region>campania</region>
+  <!--chosen cities with higher density-->
+   <dencity city="napoli">2.517</dencity>
+   <dencity city="salerno">214</dencity>
+    <numero_provincia>30</numero_provincia>
+   <!--density is citizens and km2-->
+ </area>
+ <area>
+  <region>emilia romagna</region>  
+   <dencity city="bologna">274</dencity>
+   <dencity city="rimini">389</dencity>
+ </area>
+ <area>
+  <region>piemonte</region>
+   <dencity city="torino">323</dencity>
+   <dencity city="novara">270</dencity>
+ </area>
+ <area>
+  <region>lombardia</region>
+   <dencity city="milano">2.055</dencity>
+   <dencity city="monza">2.146</dencity>
+ </area>
+ <area>
+  <region>veneto</region>
+   <dencity city="padova">434</dencity>
+   <dencity city="treviso">354</dencity>
+ </area>
+ <area>
+  <region>puglia</region>
+   <dencity city="bari">317</dencity>
+   <dencity city="lecce">276</dencity>
+ </area>
+ <area>
+  <region>sicilia</region>
+   <dencity city="catania">299</dencity>
+   <dencity city="palermo">239</dencity>
+ </area>
+ <area>
+  <region>toscana</region>
+   <dencity city="prato">723</dencity>
+   <dencity city="firenze">283</dencity>
+ </area>
+ <area>
+  <region>liguria</region>
+   <dencity city="genova">445</dencity>
+   <dencity city="la spezia">244</dencity>
+ </area>
+ <area>
+  <region>lazio</region>
+   <dencity city="roma">787</dencity>
+   <dencity city="latina">251</dencity>
+ </area>
+</country>

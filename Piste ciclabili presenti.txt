@@ -1,0 +1,11 @@
+area, city, bike line density km2, km routes, streets, cost
+campania, napoli, ,16.5, 19.2, "Via Aldo Moro, \n Corso Umberto I, \n ""Mergellina""", 13mln
+emilia romagna, bologna, 24, 136, "Via Aldo Moro, \n Corso Vittorio Emanuele, \n ""Torre degli Asinelli""", 20mln
+lombardia, milano, 11.1, 224, "Via Circo, \n Via Napoleone, \n ""San Siro""",
+lazio, roma, 17.9, 248, "Piazza Vittorio Emaniele, \n Circunvallazione Ostiense",
+piemonte, torino,,216, "Corso Dante, \n Corso Siracusa, \n ""Juventus Stadium""",
+sicilia, palermo,,,"Via Borsellino, \n Corso Pietro Pisani",
+puglia, bari,34.6, 31, "Via Giuseppe Capruzzi, \n Corso Italia, \n Via Buccari", 8mln
+toscana, firenze, 113.3, 102, "Via Strozzi, \n Via Corsi,
+liguria, genoa, 65.5, 13, "Via Aldo Moro, \n Corso Umberto I, 11mln
+veneto, venezia, 4.4, 144, """Piazza San Marco"", \n Via del sudario", 6mln
